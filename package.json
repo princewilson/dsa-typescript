@@ -1,0 +1,25 @@
+{
+  "name": "dsa-typescript",
+  "version": "1.0.0",
+  "description": "DSA Implementations in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princewilson/dsa-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/princewilson/dsa-typescript/issues"
+  },
+  "homepage": "https://github.com/princewilson/dsa-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "typescript": "^7.0.2"
+  }
+}
